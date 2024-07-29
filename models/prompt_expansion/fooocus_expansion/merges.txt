@@ -1,0 +1,1 @@
+# Data too long. Original file: https://github.com/lllyasviel/Fooocus/models/prompt_expansion/fooocus_expansion/merges.txt
